@@ -1,0 +1,17 @@
+REFORMER ： https://openreview.net/pdf?id=rkgNKkHtvB
+
+Longformer ：https://paperswithcode.com/paper/longformer-the-long-document-transformer
+
+T5 ： https://towardsdatascience.com/fine-tuning-a-t5-transformer-for-any-summarization-task-82334c64c81
+
+Finetune-Transformers ：https://github.com/nsi319/Finetune-Transformers
+
+distilbart-cnn/distilbart-xsum:   https://www.vennify.ai/summarize-text-with-transformer-models/ ;
+			https://shap.readthedocs.io/en/latest/example_notebooks/text_examples/summarization/Abstractive%20Summarization%20Explanation%20Demo.html
+		       
+sumy : https://pypi.org/project/sumy/
+
+BERT: https://towardsdatascience.com/extractive-summarization-using-bert-966e912f4142;
+         https://theaidigest.in/summarize-text-document-using-transformers-and-bert/
+         https://github.com/dmmiller612/bert-extractive-summarizer
+         
