@@ -3,3 +3,7 @@
 -  https://github.com/thegregyang/LossUpAccUp
 -  label smoothing(标签平滑)：https://zhuanlan.zhihu.com/p/116466239
 -  On Calibration of Modern Neural Networks ：https://zhuanlan.zhihu.com/p/428553023
+
+
+## 样本不均衡
+- focal loss ： https://zhuanlan.zhihu.com/p/266023273
