@@ -6,4 +6,6 @@
 
 
 ## 样本不均衡
-- focal loss ： https://zhuanlan.zhihu.com/p/266023273
+- focal loss ： 
+  - https://zhuanlan.zhihu.com/p/266023273
+  - https://zhuanlan.zhihu.com/p/155615126
